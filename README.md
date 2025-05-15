@@ -1,13 +1,13 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo: [https://ambujsingh11.github.io/Portfolio_Ambuj_Singh/](https://ambujsingh11.github.io/Portfolio_Ambuj_Singh/)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
 ![Developer Portoflio]
 
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+Hi there! I'm Ambuj Singh, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
+> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/Ambujsingh11
 
 ## **Portfolio Features:**
 
