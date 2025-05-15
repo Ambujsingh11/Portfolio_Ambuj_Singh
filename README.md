@@ -30,8 +30,8 @@ Hi there! I'm Ambuj Singh, and this is my portfolio website code built with HTML
 
 ## **Want to see it live? 👀**
 
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* Visit: [https://github.com/Ambujsingh11/](https://github.com/Ambujsingh11)
+* Or, explore the code on GitHub: [https://github.com/Ambujsingh11/Portfolio_Ambuj_Singh](https://github.com/Ambujsingh11/Portfolio_Ambuj_Singh)
 
 ## **Why This Web Developer Portfolio Stands Out**
 
@@ -43,4 +43,4 @@ Hi there! I'm Ambuj Singh, and this is my portfolio website code built with HTML
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
+> ~ [hi@vijay-singh.com](mailto:ambujsingh.sit.comp@gmail.com)
